@@ -11,11 +11,15 @@ This program is in no way efficient or perfect in any sense. This program is int
 beginning to learn C and want to see basic C concepts demonstrated. The code is commented for better
 readability.
 
+
 The program uses the following libraries:
 
   *stdio.h
+  
   *stdlib.h
+  
   *time.h
+
 
 The program was compiled using gcc version 7.4.0 on Ubuntu 18.04.1. I provided a exectuable
 in this repository but feel free to make your own. This program is free for anyone to take, modify,
