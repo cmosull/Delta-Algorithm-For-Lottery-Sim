@@ -1,16 +1,3 @@
-//Purpose: To review basic C concepts including functions, basic input/output
-//and loops/conditionals.
-//
-//Project 1: This program uses the "Delta Algorithim" to simulate the lottery.
-//The user inputs 6 numbers as instructed and the program creates 6 lottery
-//numbers which are then compared to winning numbers. These winning numbers are
-//randomly generated each time and the game is played 1 million times.
-//
-//Assumptions: I assumed that the majority of this problem can be solved using
-//many Loops and conditionals to increase the the effciency of the program,
-//rather than manual coding each equation. This assumption proved to be correct.
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
