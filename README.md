@@ -7,9 +7,11 @@ randomly generated each time and the game is played 1 million times. The numbers
 every 10000th generated set of numbers is displayed to the screen. This program is intended
 to be run from the command line.
 
-This program is in no way optimally efficient or perfect in any sense, but should be used
-to demonstrate a few very basic characterisitcs and functions of C. The program uses the
-following libraries:
+This program is in no way efficient or perfect in any sense. This program is intended for those
+beginning to learn C and want to see basic C concepts demonstrated. The code is commented for better
+readability.
+
+The program uses the following libraries:
 
   *stdio.h
   *stdlib.h
