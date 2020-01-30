@@ -1,7 +1,7 @@
 # Delta-Algorithm-For-Lottery-Sim
 
 Basic Description: This program uses the "Delta Algorithim" to simulate a lottery.
-The user inputs 6 numbers as instructed and the program creates 6 lottery
+The user inputs six numbers as instructed and the program creates six lottery
 numbers which are then compared to winning numbers. These winning numbers are
 randomly generated each time and the game is played 1 million times. The numbers of
 every 10000th generated set of numbers is displayed to the screen. This program is intended
