@@ -1,6 +1,7 @@
 # Delta-Algorithm-For-Lottery-Sim
 
-Basic Description: This program uses the "Delta Algorithim" to simulate a lottery.
+## Basic Description
+This program uses the "Delta Algorithim" to simulate a lottery.
 The user inputs six numbers as instructed and the program creates six lottery
 numbers which are then compared to winning numbers. These winning numbers are
 randomly generated each time and the game is played 1 million times. The numbers of
@@ -11,7 +12,7 @@ This program is in no way efficient or perfect in any sense. This program is int
 beginning to learn C and want to see basic C concepts demonstrated. The code is commented for better
 readability.
 
-
+## Tools and Further Comments
 The program uses the following libraries:
 
   *stdio.h
